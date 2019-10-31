@@ -1,22 +1,14 @@
-# NSHipster Homebrew Formulae
+# Homebrew Formulae
 
 ```terminal
-$ brew tap nshipster/formulae
+$ brew tap cdann-leafly/formulae
 ```
 
 ## Currently On Tap
 
-- **[gyb][gyb]** _("Generate Your Boilerplate")_:
-  A lightweight templating system used by the Swift Standard Library
-  that allows you to use Python code for variable substitution and flow control.
-- **[swift-gyb][swift-gyb]**:
-  A command line tool that evaluates and runs a Swift GYB script.
 - **[swift-format][swift-format]**:
   A command line tool that formats and diagnoses Swift source code
   according to a set of style guidelines.
-- **[swift-syntax-highlight][swift-syntax-highlight]**:
-  A syntax highlighter for Swift code that uses SwiftSyntax to generate Pygments-compatible HTML.
-  Run it from the command-line to highlight Swift code or source files.
 
 ## License
 
@@ -24,9 +16,8 @@ $ brew tap nshipster/formulae
 
 ## Contact
 
-Mattt ([@mattt](https://twitter.com/mattt))
+cdann (chris.dannunzio@leafly.com)
 
-[gyb]: https://nshipster.com/swift-gyb/
-[swift-gyb]: https://github.com/NSHipster/swift-gyb
-[swift-format]: https://github.com/NSHipster/swift-format
-[swift-syntax-highlight]: https://github.com/NSHipster/SwiftSyntaxHighlighter
+# NOTE: This repo was orginially cloned from NSHipster (thank you!)
+
+[swift-format]: https://github.com/cdann-leafly/swift-format
